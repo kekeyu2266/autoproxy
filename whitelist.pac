@@ -436,9 +436,9 @@
 ||deepin.org
 ||dgtle.com
 ||dfcfw.com
-||dida365.com
 ||dianping.com
 ||dict.cn
+||dida365.com
 ||dilidili.com
 ||dilidili.wang
 ||dingtalk.com
@@ -561,6 +561,7 @@
 ||ibruce.info
 ||iciba.com
 ||icourse163.org
+||idqqimg.com
 ||ieee.org
 ||ifanr.com
 ||ifanr.in
