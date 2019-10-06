@@ -305,7 +305,6 @@
 ||aiwebcom.com
 ||aixifan.com
 ||aizhan.com
-||akamaihd.net
 ||akarin.me
 ||akarin.top
 ||alibaba.com
@@ -701,7 +700,6 @@
 ||mgtv.com
 ||mi.com
 ||miaopai.com
-||microsoft.com
 ||mikanani.me
 ||mindstore.io
 ||mingdao.com
