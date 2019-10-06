@@ -664,7 +664,6 @@
 ||linuxde.net
 ||linuxidc.com
 ||liyin.date
-||live.com
 ||lizhi.io
 ||lncld.net
 ||lnmp.org
