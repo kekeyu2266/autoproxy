@@ -342,6 +342,7 @@
 ||baidupan.com
 ||baidupcs.com
 ||baidustatic.com
+||baiduwp.com
 ||bankcomm.com
 ||baozou.com
 ||baozoumanhua.com
@@ -942,6 +943,7 @@
 ||weiyun.com
 ||wht.im
 ||wiley.com
+||windy.com
 ||wisenjoy.com
 ||wiz.cn
 ||wjasset.com
