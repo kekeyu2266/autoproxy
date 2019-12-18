@@ -1,5 +1,5 @@
-USER-KEYWORD,tmdb,moviedb
-USER-KEYWORD,imdb,moviedb
-USER-KEYWORD,thetvdb,moviedb
-USER-KEYWORD,opensubtitles,moviedb
-USER-KEYWORD,themoviedb,moviedb
+HOST-KEYWORD,tmdb,moviedb
+HOST-KEYWORD,imdb,moviedb
+HOST-KEYWORD,thetvdb,moviedb
+HOST-KEYWORD,opensubtitles,moviedb
+HOST-KEYWORD,themoviedb,moviedb
