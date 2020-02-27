@@ -1022,3 +1022,4 @@
 ||zongheng.com
 ||zuk.cn
 ||zybuluo.com
+||zone139.com
