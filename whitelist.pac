@@ -714,6 +714,7 @@
 ||mukewang.com
 ||mumayi.com
 ||mydrivers.com
+||migucloud.com
 
 ! N
 ||nature.com
