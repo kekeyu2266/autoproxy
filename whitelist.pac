@@ -752,6 +752,7 @@
 ||panduoduo.net
 |https://www.paypal.com/c2/
 ||pcbeta.com
+||pcbeta.org
 ||pdcicons.ml
 ||pdim.gs
 ||pengyou.com
@@ -1017,10 +1018,10 @@
 ||zimuzu.io
 ||zimuzu.tv
 ||zmz005.com
-
 ||znyj365.com
 ||zol.com.cn
 ||zongheng.com
 ||zuk.cn
+||zybang.com
 ||zybuluo.com
 ||zone139.com
