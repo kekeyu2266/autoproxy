@@ -384,6 +384,7 @@
 ||chinabyte.com
 ||chinadsl.net
 ||chinaso.com
+||chinamobile.com
 ||chinassl.net
 ||chinaunix.net
 ||chinaz.com
