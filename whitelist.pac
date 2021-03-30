@@ -368,6 +368,7 @@
 ||byfunds.com
 
 ! C
+||ccgp-shaanxi.gov.cn
 ||cachemoment.com
 ||cas.cn
 ||cctv.com
