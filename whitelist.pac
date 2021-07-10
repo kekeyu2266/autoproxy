@@ -718,6 +718,7 @@
 ||mumayi.com
 ||mydrivers.com
 ||migucloud.com
+||monidai.com
 
 ! N
 ||nature.com
